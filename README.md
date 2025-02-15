@@ -1,12 +1,15 @@
 # 👋 Hi, I’m @FilipeCyberSec  
 
 ## 🚀 About Me  
-Atualmente atuo como Desenvolvedor .NET Backend Sênior, onde participo do design, desenvolvimento e otimização de soluções backend robustas e escaláveis. Utilizo as melhores práticas de arquitetura de software e tecnologias avançadas da plataforma .NET, garantindo alta performance, segurança e alinhamento com as estratégias de negócio.  
+Me chamo Filipe André, sou um Desenvolvedor .Net backend e tenho mais de 5 anos na área de tecnologia. 
 
-Sou graduado em **Análise e Desenvolvimento de Sistemas** e possuo **Pós-Graduação em Arquitetura de Soluções na Plataforma .NET**. Minha formação técnica e experiência prática me capacitam a antecipar demandas do mercado e liderar iniciativas estratégicas em tecnologia.  
+🎓 Formação Acadêmica:
+- Pós-Graduação: Arquitetura de Soluções na Plataforma .NET 
+- Graduação: Análise e Desenvolvimento de Sistemas
+
 
 ## 🌱 I’m currently learning  
-Atualmente estou expandindo meus conhecimentos em **Cibersegurança**, estudando o curso *Junior Cybersecurity Analyst* da Cisco. Me interesso por temas como segurança ofensiva/defensiva, criptografia e análise de vulnerabilidades.  
+Atualmente estou expandindo meus conhecimentos em **Cibersegurança**. Me interesso por temas como segurança ofensiva/defensiva e análise de vulnerabilidades.  
 
 ## 📫 How to reach me  
 - 📩 Email: [seuemail@email.com](mailto:seuemail@email.com)  
