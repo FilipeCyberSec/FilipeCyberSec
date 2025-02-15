@@ -1,5 +1,4 @@
-## Filipe André  
-Atuo como Desenvolvedor .NET Backend, com mais de 5 anos de experiência na área de tecnologia. Já colaborei com grandes empresas do Brasil, contribuindo para o sucesso delas ao desenvolver soluções eficientes, escaláveis e de alto impacto, atendendo clientes globalmente.
+## Atuo como Desenvolvedor .NET Backend, com mais de 5 anos de experiência na área de tecnologia. Já colaborei com grandes empresas do Brasil, contribuindo para o sucesso delas ao desenvolver soluções eficientes, escaláveis e de alto impacto, atendendo clientes globalmente.
 
 ## Desenvolvimento Profissional  
 Aprofundando meus conhecimentos em **Cibersegurança**, com ênfase em **Segurança Ofensiva** e **Avaliação de Vulnerabilidades**.  
