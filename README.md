@@ -14,7 +14,11 @@ Estou aprimorando meus conhecimentos em **Cibersegurança**, com foco em **Segur
 - [Nano Course in Cybersecurity](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/107564/dde2de4e80de00b0dee0887fe4840c4f/certificado.png) – FIAP (2024)  
 
 ## ⚡ Motivações e Interesses Pessoais  
-Sou apaixonado por tecnologia e sempre busco novos desafios para aprimorar minhas habilidades!
+- Tecnologia e Privacidade
+- Preparo e Antecipação de Incidentes
+- Análise de Vulnerabilidades e Gestão de Crises
+- Segurança da Informação e Defesa de Ativos Digitais
+- Correções Preventivas e Cultura de Cibersegurança
 
 ## 📫 Formas de Contato 
 - **Email:** filipeandre.cybersec@gmail.com
