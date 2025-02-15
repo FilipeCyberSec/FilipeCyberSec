@@ -4,7 +4,7 @@
 Sou um Desenvolvedor .NET Backend Sênior com mais de 5 anos de experiência na área de tecnologia. Já atuei em algumas das maiores empresas do Brasil, contribuindo para o sucesso delas ao desenvolver soluções eficientes, escaláveis e de alto impacto, atendendo clientes em nível global.
 
 ## 🌱 Desenvolvimento Profissional  
-Estou aprimorando meus conhecimentos em Cibersegurança, com foco em Segurança Ofensiva e Análise de Vulnerabilidades.  
+Estou aprimorando meus conhecimentos em **Cibersegurança**, com foco em **Segurança Ofensiva** e **Análise de Vulnerabilidades**.  
 
 ## 🎓 Formação Acadêmica  
 - **Pós-Graduação:** Arquitetura de Soluções na Plataforma .NET  
