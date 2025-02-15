@@ -15,7 +15,7 @@ Atualmente estou expandindo meus conhecimentos em **Cibersegurança**. Me intere
 
 ## 📫 How to reach me  
 - 📩 Email: filipeandre.cybersec@gmail.com  
-- 💼 LinkedIn: [Nano Course in Cybersecurity](https://www.linkedin.com/in/filipe-andre/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/filipe-andre/](https://www.linkedin.com/in/filipe-andre/)
 
 ## ⚡ Fun fact  
 
