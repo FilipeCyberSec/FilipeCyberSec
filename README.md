@@ -15,7 +15,7 @@ Atualmente, estou expandindo meus conhecimentos em **Cibersegurança**, com inte
 
 ## 📫 How to reach me  
 - 📩 **Email:** filipeandre.cybersec@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/filipe-andre/](https://www.linkedin.com/in/filipe-andre/)
 
 ## ⚡ Fun Fact  
 Sou apaixonado por tecnologia e sempre busco novos desafios para aprimorar minhas habilidades! 🚀  
