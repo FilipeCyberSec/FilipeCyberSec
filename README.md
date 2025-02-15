@@ -1,4 +1,4 @@
-## Profissional de Desenvolvimento de Software
+## Atuando como
 Desenvolvedor .NET Backend, com mais de 5 anos de experiência na área de tecnologia. Já colaborei com grandes empresas do Brasil, contribuindo para o sucesso delas ao desenvolver soluções eficientes, escaláveis e de alto impacto, atendendo clientes globalmente.
 
 ## Transição de Carreira  
