@@ -1,4 +1,4 @@
-# Me chamo Filipe André e seja bem-vindo(a) ao meu repositório!
+# Sou Filipe André, bem-vindo(a) ao meu repositório!!
 
 ## 🚀 Sobre mim  
 Sou um Desenvolvedor .NET Backend Sênior com mais de 5 anos de experiência na área de tecnologia. Já atuei em algumas das maiores empresas do Brasil, contribuindo para o sucesso delas ao desenvolver soluções eficientes, escaláveis e de alto impacto, atendendo clientes em nível global.
