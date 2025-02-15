@@ -14,7 +14,7 @@ Atualmente, estou expandindo meus conhecimentos em **Cibersegurança**, com inte
 - 🛡️ [Nano Course in Cybersecurity](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/107564/dde2de4e80de00b0dee0887fe4840c4f/certificado.png) – FIAP (2024)  
 
 ## 📫 How to reach me  
-- 📩 **Email:** [filipeandre.cybersec@gmail.com](mailto:filipeandre.cybersec@gmail.com)  
+- 📩 **Email:** filipeandre.cybersec@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
 
 ## ⚡ Fun Fact  
