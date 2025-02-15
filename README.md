@@ -6,12 +6,12 @@ Me chamo Filipe André, sou um Desenvolvedor .Net backend e tenho mais de 5 anos
 ## 🌱 I’m currently learning  
 Atualmente estou expandindo meus conhecimentos em **Cibersegurança**. Me interesso por temas como segurança ofensiva/defensiva e análise de vulnerabilidades. 
 
-🎓 Formação Acadêmica:
+## 🎓 Formação Acadêmica:
 - Pós-Graduação: Arquitetura de Soluções na Plataforma .NET 
 - Graduação: Análise e Desenvolvimento de Sistemas
 
-🏆 Certificações
-- [Nome da Certificação] – [Instituição] (Ano)
+## 🏆 Certificações
+- [Nano Course in Cybersecurity] – [FIAP] (2024)
 
 ## 📫 How to reach me  
 - 📩 Email: [seuemail@email.com](mailto:seuemail@email.com)  
