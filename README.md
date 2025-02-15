@@ -1,6 +1,4 @@
-# Sou Filipe André, bem-vindo(a) ao meu repositório!!
-
-## 🚀 Sobre mim  
+## Filipe André  
 Atuo como Desenvolvedor .NET Backend, com mais de 5 anos de experiência na área de tecnologia. Já colaborei com grandes empresas do Brasil, contribuindo para o sucesso delas ao desenvolver soluções eficientes, escaláveis e de alto impacto, atendendo clientes globalmente.
 
 ## 🌱 Desenvolvimento Profissional  
