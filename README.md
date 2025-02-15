@@ -1,18 +1,18 @@
 ## Filipe André  
 Atuo como Desenvolvedor .NET Backend, com mais de 5 anos de experiência na área de tecnologia. Já colaborei com grandes empresas do Brasil, contribuindo para o sucesso delas ao desenvolver soluções eficientes, escaláveis e de alto impacto, atendendo clientes globalmente.
 
-## 🌱 Desenvolvimento Profissional  
+## Desenvolvimento Profissional  
 ### Aprofundando meus conhecimentos em **Cibersegurança**, com ênfase em **Segurança Ofensiva** e **Avaliação de Vulnerabilidades**.  
 
-## 🎓 Formação Acadêmica  
+## Formação Acadêmica  
 - **Pós-Graduação:** Arquitetura de Soluções na Plataforma .NET  
 - **Graduação:** Análise e Desenvolvimento de Sistemas  
 
-## 🏆 Certificações
+## Certificações
 - [Junior Cybersecurity Analyst](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US) - CISCO (Em andamento)
 - [Nano Course in Cybersecurity](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/107564/dde2de4e80de00b0dee0887fe4840c4f/certificado.png) – FIAP (2024)  
 
-## ⚡ Motivações e Interesses Pessoais  
+## Motivações e Interesses Pessoais  
 - Tecnologia e Privacidade
 - Preparo e Antecipação de Incidentes
 - Análise de Vulnerabilidades e Gestão de Crises
