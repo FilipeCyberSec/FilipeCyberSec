@@ -1,6 +1,4 @@
-# Saudações!
-
-## 🚀 About Me  
+# 🚀 About Me  
 Me chamo Filipe André, sou um Desenvolvedor .NET Backend com mais de 5 anos de experiência na área de tecnologia.  
 
 ## 🌱 I’m currently learning  
