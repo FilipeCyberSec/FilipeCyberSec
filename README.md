@@ -9,7 +9,7 @@ Aprofundando meus conhecimentos em **Cibersegurança**, com ênfase em **Seguran
 - **Graduação:** Análise e Desenvolvimento de Sistemas  
 
 ## Certificações
-- [Junior Cybersecurity Analyst](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US) - CISCO (Em andamento)
+- [Introduction to Cybersecurity](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US) - CISCO
 - [Nano Course in Cybersecurity](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/107564/dde2de4e80de00b0dee0887fe4840c4f/certificado.png) – FIAP (2024)  
 
 ## Motivações e Interesses Pessoais  
