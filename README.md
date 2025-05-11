@@ -5,7 +5,7 @@ Desenvolvedor .NET Backend, com mais de 5 anos de experiência na área de tecno
 Aprofundando meus conhecimentos em **Cibersegurança**, com ênfase em **Segurança Ofensiva** e **Avaliação de Vulnerabilidades**.  
 
 ## Formação Acadêmica  
-- **Pós-Graduação:** Arquitetura de Soluções na Plataforma .NET  
+- **Pós-Graduação:** Arquitetura de Soluções na Plataforma .NET(C#)  
 - **Graduação:** Análise e Desenvolvimento de Sistemas  
 
 ## Certificações
